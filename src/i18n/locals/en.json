@@ -1,0 +1,19 @@
+{
+    "logo": "Delson",
+    "nav": {
+        "home": "Home",
+        "works": "Works",
+        "about": "About",
+        "contact": "Contact"
+    },
+    "home": {
+        "name": "Delson is a",
+        "work": "Full Stack Developer",
+        "description": "He crafts responsive websites where technologies meet creativity",
+        "contact-btn": "Contact Me!!"
+    },
+    "quote": {
+        "quote": "The quality of your life will be determined by the quality of the work you do.",
+        "author": "Orison Swett Marden"
+    }
+}
